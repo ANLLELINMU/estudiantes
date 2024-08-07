@@ -1,0 +1,34 @@
+body
+{
+    background: #83a4d4;  
+    background: -webkit-linear-gradient(to right, #b6fbff, #83a4d4);  
+    background: linear-gradient(to right, #b6fbff, #83a4d4); 
+}
+table{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    
+body{
+ 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #b6fbff;
+    color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+
+}
+
+.form-control{
+
+    width: 100px;
+    padding: 1000px;
+    border:25px solid darkblue;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+  
+}
